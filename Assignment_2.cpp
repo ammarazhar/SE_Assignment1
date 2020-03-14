@@ -6,6 +6,8 @@ using namespace std;
 
 int total_column,total_row,start_row,start_column,goal_column, goal_row;
 
+//this is test code for SE GitHub assignment
+
 struct node
 {
 	int rowposition = 0, columnposition = 0;
